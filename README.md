@@ -29,8 +29,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## PROGRAM:
 
-### Name: RITHIGA SRI.B
-### Register Number: 212221230083
+### Name: RIZWAN T
+### Register Number: 212222040134 
 
 ```python
 import pandas as pd
